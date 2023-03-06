@@ -6,7 +6,8 @@ Looking for those jamming files that were removed from custom firmwares? Here th
 ## Usage
 Add these files to `/subghz/` on your Flipper Zero (preferrably in a new directory named "Jamming"), and access them using the Sub-GHz application.
 
-Complete guide here: https://thecomputernoob.com/flipper-zero-jamming/
+Sick video demo: https://www.youtube.com/watch?v=aHXx3niWDnY
+Complete guide: https://thecomputernoob.com/flipper-zero-jamming
 
 ## Disclaimer
 * If you do not know what you are doing with these files, you should probably not try
