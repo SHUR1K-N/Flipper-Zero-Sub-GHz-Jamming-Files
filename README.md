@@ -1,4 +1,4 @@
-# Flipper Zero's Sub-GHz Jamming
+# Flipper Zero's Sub-GHz Jamming Files
 
 ## Description
 Looking for those jamming files that were removed from custom firmwares? Here they are. Only for educational purposes, of course.
